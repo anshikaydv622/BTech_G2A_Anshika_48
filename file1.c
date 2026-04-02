@@ -1,6 +1,6 @@
 // wap to make calculator by using switch case
 
-/*#include<stdio.h>
+#include<stdio.h>
 int main()
 {
    int a ,b ,c ;
@@ -41,7 +41,7 @@ int main()
         return 0;
 
 }
-}*/
+}
 
 
 
