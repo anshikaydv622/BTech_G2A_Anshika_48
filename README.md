@@ -1,2 +1,2 @@
-# BTech_G2A_Anshika_48
-C Programs
+# Btech_G2A_Dhairya-Choudhary_51
+C-Program
